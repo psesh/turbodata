@@ -5,5 +5,5 @@ Data-sets for turbomachinery design studies. These data-sets are used in
 
 for evaluating the utility of subspace-based dimension reduction methods on turbomachinery type data-sets. When using these data-sets please do cite the above reference. For further details and queries, please contact:
 
-Pranay Seshadri
-p.seshadri <at> eng.cam.ac.uk
+**Pranay Seshadri** \\
+p.seshadri **at** eng.cam.ac.uk
